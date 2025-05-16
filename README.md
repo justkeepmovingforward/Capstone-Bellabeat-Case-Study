@@ -251,6 +251,7 @@ Getting the average:
             calories_average = mean(Calories)
         )
 I classified users using the Tudor-Locke classification system: 
+
 source https://www.researchgate.net/figure/Classification-of-activity-according-to-Tudor-Locke-et-al_tbl1_375576827
 
 * <5,000 steps/day – Sedentary
