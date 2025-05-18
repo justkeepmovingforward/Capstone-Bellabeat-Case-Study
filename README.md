@@ -616,7 +616,3 @@ Summary:
 
 7. Help reduce long sitting time
 	* Use reminders to nudge users to move when they’ve been inactive for too long — just short walks or stretches. We can even link this to the visual avatar so they see the effect right away.
-  File "/tmp/ipykernel_14/3436001173.py", line 26
-    Focus on one of Bellabeat’s products and analyze usage data from smart devices to understand how users are currently engaging with health and wellness technology. Based on these insights, provide high-level recommendations to help inform Bellabeat’s marketing strategy.
-                             ^
-SyntaxError: invalid character '’' (U+2019)
