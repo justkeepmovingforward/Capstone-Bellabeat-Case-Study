@@ -609,10 +609,10 @@ Summary:
 
 4. Reach users when they’re most active
 	* Most users are active during weekdays, likely around lunch or after work. They might be working professionals walking to eat out or meet friends. We can target these time windows through:
+		* In-person promotions near restaurants
+		* Partnering with workplaces
 
-6. In-person promotions near restaurants
-	* Partnering with workplaces
-	* Wellness events like fun runs
+5. Promote Wellness events like fun runs
 
-7. Help reduce long sitting time
+6. Help reduce long sitting time
 	* Use reminders to nudge users to move when they’ve been inactive for too long — just short walks or stretches. We can even link this to the visual avatar so they see the effect right away.
