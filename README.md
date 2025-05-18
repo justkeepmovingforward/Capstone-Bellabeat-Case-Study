@@ -568,7 +568,8 @@ Summary:
 
 ## Share
 
-[![Image 1](https://i.postimg.cc/Mn1TYqzK/1.png)](https://github.com/justkeepmovingforward/Capstone-Bellabeat-Case-Study/blob/images/1.png?raw=true)
+[[![Image 1](https://i.postimg.cc/Mn1TYqzK/1.png)](https://github.com/justkeepmovingforward/Capstone-Bellabeat-Case-Study/blob/images/1.png?raw=true)
+](https://github.com/justkeepmovingforward/Capstone-Bellabeat-Case-Study/blob/images/1.png?raw=true)
 
 ![Image 2](https://i.postimg.cc/3dsNpd5c/2-2.png)
 
